@@ -2,11 +2,11 @@ import React from 'react';
 
 export default function Footer() {
   return (
-    <footer>
-      <h1>I MADE THIS:</h1>
-      <h2>
+    <footer className= "footer mt-auto text-warning text-center">
+      <h5>I MADE THIS:</h5>
+      <h6>
        CORBIN BALL
-       </h2>
+       </h6>
     </footer>
   );
 }
