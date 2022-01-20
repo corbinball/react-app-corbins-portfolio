@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-app-corbins-portfolio/static/css/main.89646867.css",
-    "main.js": "/react-app-corbins-portfolio/static/js/main.54e3bede.js",
+    "main.js": "/react-app-corbins-portfolio/static/js/main.c909cd5f.js",
     "index.html": "/react-app-corbins-portfolio/index.html",
     "main.89646867.css.map": "/react-app-corbins-portfolio/static/css/main.89646867.css.map",
-    "main.54e3bede.js.map": "/react-app-corbins-portfolio/static/js/main.54e3bede.js.map"
+    "main.c909cd5f.js.map": "/react-app-corbins-portfolio/static/js/main.c909cd5f.js.map"
   },
   "entrypoints": [
     "static/css/main.89646867.css",
-    "static/js/main.54e3bede.js"
+    "static/js/main.c909cd5f.js"
   ]
 }
